@@ -1,0 +1,53 @@
+c:\users\jesus alvino\source\repos\SearchFight\SearchFight\bin\Debug\SearchFight.exe.config
+c:\users\jesus alvino\source\repos\SearchFight\SearchFight\bin\Debug\SearchFight.exe
+c:\users\jesus alvino\source\repos\SearchFight\SearchFight\bin\Debug\SearchFight.pdb
+c:\users\jesus alvino\source\repos\SearchFight\SearchFight\obj\Debug\SearchFight.csproj.CoreCompileInputs.cache
+c:\users\jesus alvino\source\repos\SearchFight\SearchFight\obj\Debug\SearchFight.exe
+c:\users\jesus alvino\source\repos\SearchFight\SearchFight\obj\Debug\SearchFight.pdb
+c:\users\jesus alvino\source\repos\SearchFight\SearchFight\bin\Debug\SearchFight.BusinessEntities.dll
+c:\users\jesus alvino\source\repos\SearchFight\SearchFight\bin\Debug\SearchFight.Engine.dll
+c:\users\jesus alvino\source\repos\SearchFight\SearchFight\bin\Debug\SearchFight.ServiceAgents.dll
+c:\users\jesus alvino\source\repos\SearchFight\SearchFight\bin\Debug\Google.Apis.Customsearch.v1.dll
+c:\users\jesus alvino\source\repos\SearchFight\SearchFight\bin\Debug\Google.Apis.dll
+c:\users\jesus alvino\source\repos\SearchFight\SearchFight\bin\Debug\Google.Apis.Core.dll
+c:\users\jesus alvino\source\repos\SearchFight\SearchFight\bin\Debug\Newtonsoft.Json.dll
+c:\users\jesus alvino\source\repos\SearchFight\SearchFight\bin\Debug\SearchFight.BusinessEntities.pdb
+c:\users\jesus alvino\source\repos\SearchFight\SearchFight\bin\Debug\SearchFight.Engine.pdb
+c:\users\jesus alvino\source\repos\SearchFight\SearchFight\bin\Debug\SearchFight.ServiceAgents.pdb
+c:\users\jesus alvino\source\repos\SearchFight\SearchFight\bin\Debug\Google.Apis.Customsearch.v1.pdb
+c:\users\jesus alvino\source\repos\SearchFight\SearchFight\bin\Debug\Google.Apis.Customsearch.v1.xml
+c:\users\jesus alvino\source\repos\SearchFight\SearchFight\bin\Debug\Google.Apis.pdb
+c:\users\jesus alvino\source\repos\SearchFight\SearchFight\bin\Debug\Google.Apis.xml
+c:\users\jesus alvino\source\repos\SearchFight\SearchFight\bin\Debug\Google.Apis.Core.pdb
+c:\users\jesus alvino\source\repos\SearchFight\SearchFight\bin\Debug\Google.Apis.Core.xml
+c:\users\jesus alvino\source\repos\SearchFight\SearchFight\bin\Debug\Newtonsoft.Json.xml
+c:\users\jesus alvino\source\repos\SearchFight\SearchFight\obj\Debug\SearchFight.csprojResolveAssemblyReference.cache
+C:\Nestor-Proyectos\Csharp\example3\SearchFight\SearchFight\bin\Debug\SearchFight.exe
+C:\Nestor-Proyectos\Csharp\example3\SearchFight\SearchFight\bin\Debug\SearchFight.BusinessEntities.dll
+C:\Nestor-Proyectos\Csharp\example3\SearchFight\SearchFight\bin\Debug\SearchFight.Engine.dll
+C:\Nestor-Proyectos\Csharp\example3\SearchFight\SearchFight\bin\Debug\SearchFight.ServiceAgents.dll
+C:\Nestor-Proyectos\Csharp\example3\SearchFight\SearchFight\bin\Debug\Google.Apis.Customsearch.v1.dll
+C:\Nestor-Proyectos\Csharp\example3\SearchFight\SearchFight\bin\Debug\Google.Apis.dll
+C:\Nestor-Proyectos\Csharp\example3\SearchFight\SearchFight\bin\Debug\Google.Apis.Core.dll
+C:\Nestor-Proyectos\Csharp\example3\SearchFight\SearchFight\bin\Debug\Newtonsoft.Json.dll
+C:\Nestor-Proyectos\Csharp\example3\SearchFight\SearchFight\bin\Debug\SearchFight.BusinessEntities.pdb
+C:\Nestor-Proyectos\Csharp\example3\SearchFight\SearchFight\bin\Debug\SearchFight.Engine.pdb
+C:\Nestor-Proyectos\Csharp\example3\SearchFight\SearchFight\bin\Debug\SearchFight.ServiceAgents.pdb
+C:\Nestor-Proyectos\Csharp\example3\SearchFight\SearchFight\bin\Debug\Google.Apis.Customsearch.v1.pdb
+C:\Nestor-Proyectos\Csharp\example3\SearchFight\SearchFight\bin\Debug\Google.Apis.Customsearch.v1.xml
+C:\Nestor-Proyectos\Csharp\example3\SearchFight\SearchFight\bin\Debug\Google.Apis.pdb
+C:\Nestor-Proyectos\Csharp\example3\SearchFight\SearchFight\bin\Debug\Google.Apis.xml
+C:\Nestor-Proyectos\Csharp\example3\SearchFight\SearchFight\bin\Debug\Google.Apis.Core.pdb
+C:\Nestor-Proyectos\Csharp\example3\SearchFight\SearchFight\bin\Debug\Google.Apis.Core.xml
+C:\Nestor-Proyectos\Csharp\example3\SearchFight\SearchFight\bin\Debug\Newtonsoft.Json.xml
+C:\Nestor-Proyectos\Csharp\example3\SearchFight\SearchFight\obj\Debug\SearchFight.csprojAssemblyReference.cache
+C:\Nestor-Proyectos\Csharp\example3\SearchFight\SearchFight\obj\Debug\SearchFight.csproj.CoreCompileInputs.cache
+C:\Nestor-Proyectos\Csharp\example3\SearchFight\SearchFight\obj\Debug\SearchFight.exe.manifest
+C:\Nestor-Proyectos\Csharp\example3\SearchFight\SearchFight\obj\Debug\SearchFight.application
+C:\Nestor-Proyectos\Csharp\example3\SearchFight\SearchFight\obj\Debug\SearchFight.exe
+C:\Nestor-Proyectos\Csharp\example3\SearchFight\SearchFight\obj\Debug\SearchFight.pdb
+C:\Nestor-Proyectos\Csharp\example3\SearchFight\SearchFight\bin\Debug\SearchFight.exe.config
+C:\Nestor-Proyectos\Csharp\example3\SearchFight\SearchFight\bin\Debug\SearchFight.exe.manifest
+C:\Nestor-Proyectos\Csharp\example3\SearchFight\SearchFight\bin\Debug\SearchFight.application
+C:\Nestor-Proyectos\Csharp\example3\SearchFight\SearchFight\bin\Debug\SearchFight.pdb
+C:\Nestor-Proyectos\Csharp\example3\SearchFight\SearchFight\obj\Debug\SearchFight.csproj.CopyComplete
