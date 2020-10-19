@@ -14,8 +14,10 @@ The application should be able to receive a variable amount of words.
 The application should support quotation marks to allow searching for terms with spaces (e.g. searchfight.exe “java script”).
 The application should support at least two search engines.
 
-API Key Optional Pre-requisites
-Out of the box Cignium Search Fight implements the Google and Bing Search Engines, so you will need the following:
+
+
+API KEY OPTIONAL WHETHER IS NECESSARY TO COMPILE CORRECTLY:
+Out of the box Searchfight implements the Google and Bing Search Engines, so you will need the following:
 
 Google API Key
 Google Custom Context Id
