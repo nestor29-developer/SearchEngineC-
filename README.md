@@ -24,6 +24,6 @@ Google Custom Context Id
 Bing Search Engine Key
 Once you have them, in order for the application to work you have update the "App.config" file. You will need the following:
 
-    <add key="GoogleAPIKey" value="AIzaSyBLaMbfK9qagaUngMR8tz9hzGFVEdaMw_E"/>
-    <add key="GoogleSearchEngineID" value="014542846031263441267:ztresdyut3a"/>
-    <add key="BINGAccessKey" value="60cdd26bf1e04e22be727e96f0a3e4db"/>
+    <add key="GoogleAPIKey" value="UPDATE_YOUR_GOOGLE_API_KEY_HERE"/>
+    <add key="GoogleSearchEngineID" value="UPDATE_YOUR_GOOGLE_SEARCH_ENGINE_ID_HERE"/>
+    <add key="BINGAccessKey" value="UPDATE_YOUR_BING_API_KEY_HERE"/>
